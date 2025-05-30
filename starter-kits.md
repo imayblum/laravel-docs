@@ -291,7 +291,7 @@ DESCOPE_MANAGEMENT_KEY="YOUR MANAGEMENT KEY" # Optional, used for user managemen
 
 #### Using Flows
 
-The frontend SDK being used includes a flow ID under the Descope component in the sample app, this can be changed to any flow ID that exists within your Descope project to customize the authentication method or even adding MFA directly through the flow.
+The frontend SDK being used includes a flow ID under the Descope component in the sample app, this can be changed to any flow ID that exists within your Descope project to customize the authentication process completely.
 
 Read more about using Descope's Flows and PHP SDK on their [docs](https://docs.descope.com).
 
